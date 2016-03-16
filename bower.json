@@ -1,0 +1,17 @@
+{
+  "name": "workspace",
+  "description": "Job Finding App",
+  "main": "index.js",
+  "authors": [
+    "David S Miller"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "jquery": "^2.2.1",
+    "angular": "^1.5.1",
+    "bootstrap": "^3.3.6"
+  }
+}
