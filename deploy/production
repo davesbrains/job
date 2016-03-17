@@ -1,4 +1,4 @@
 mkdir /home/davesbra/public_html/jobs/
-put -rp "${HOME}/clone/" /home/davesbra/public_html/jobs/
+put -rp "~/clone/" /home/davesbra/public_html/jobs/
 
 sftp -b deploy/production davesbra@davesbrain.me
